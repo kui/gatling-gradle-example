@@ -1,5 +1,7 @@
-Small Example to Load Test with Gradle and [Gatling](http://gatling.io/)
-===============================================================================
+gatling-gradle-example
+==============================
+
+Small example to load test with Gradle and [Gatling](http://gatling.io/)
 
 Run:
 
